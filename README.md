@@ -1,2 +1,2 @@
 # space2work
-Workspace Beta
+Workspace
